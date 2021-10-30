@@ -20,6 +20,10 @@
     <a href="https://instagram.com/monafmenezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
+  <div>
+    <a href= "https://www.codewars.com/users/monafmenezes/badges/small"></>
+  </div>
+  
    ##
   ![Snake animation](https://github.com/monafmenezes/monafmenezes/blob/output/github-contribution-grid-snake.svg)
  
