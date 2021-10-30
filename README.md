@@ -21,7 +21,7 @@
   </div>
   
   <div>
-    <a href= "https://www.codewars.com/users/monafmenezes/badges/small"></>
+     <a href="https://www.codewars.com/users/monafmenezes/badges/small" target="_blank"><img src="https://www.codewars.com/users/monafmenezes/badges/small" target="_blank"></a>
   </div>
   
    ##
