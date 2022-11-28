@@ -1,14 +1,17 @@
 <h4 align="center">
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Monalisa+Menezes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-## Oiii! Sou Monalisa Menezes 
-<div >
-  <a href="https://github.com/monafmenezes">
-  <img width="350px" height="180em" src="https://github-readme-stats.vercel.app/api?username=monafmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="350px"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&langs_count=7&theme=dracula"/>
+ <div align="center">  
+  <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=monafmenezes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Monalisa Menezes" /> 
+  <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+ 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=monafmenezes&theme=gotham&hide_border=true&area=true)
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
