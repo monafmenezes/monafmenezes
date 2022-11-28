@@ -7,10 +7,14 @@
 
  <div align="center">  
    <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=monafmenezes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Monalisa Menezes" /> 
-   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
  
+ 
+ 
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=monafmenezes&theme=gotham&hide_border=true&area=true)
+ 
+ 
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
