@@ -1,50 +1,78 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Monalisa+Menezes;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-
- <div align="center">  
-   <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=monafmenezes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Monalisa Menezes" /> 
-   <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+A+MONALISA+MENEZES;Seja+Bem-vinda(o)!+:%29" alt="Typing SVG" />
 </div>
- 
- 
- 
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=monafmenezes&theme=gotham&hide_border=true&area=true)
- 
- 
- 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
- <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
- <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
- <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
- <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
-          
-          
-          
- </div>
-  
-  ##
-  
-  <div>
-    <a href = "mailto:psimonafmenezes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/monalisafmenezes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.codewars.com/users/monafmenezes/badges/small" target="_blank"><img src="https://www.codewars.com/users/monafmenezes/badges/small" target="_blank"></a>
-  </div>
- 
-  
-   ##
-  ![Snake animation](https://github.com/monafmenezes/monafmenezes/blob/output/github-contribution-grid-snake.svg)
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
- 
+
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding Gif" />
+</div>
+
+<br>
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
+</div>
+
+<br>
+
+<div align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monafmenezes&theme=react-dark&area=true&hide_border=true&color=00bfbf" alt="Gráfico de Contribuição" />
+</div>
+
+<br>
+
+<div align="left">
+
+  ## 🛠 Backend & Infraestrutura
+  <img alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Spring" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img alt="Postgres" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alt="Docker" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img alt="Linux" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+  <br><br>
+
+  ## 💻 Frontend & Mobile
+  <img alt="Vue" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img alt="React" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img alt="TS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Tailwind" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+  <br><br>
+
+  ## 🧪 Testes & Ferramentas
+  <img alt="JUnit" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+  <img alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
+</div>
+
+<br>
+
+<div align="left">
+
+  ## 📫 Entre em contato
+  <a href="mailto:psimonafmenezes@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/monalisafmenezes">
+    <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="left">
+
+  ## 🐍 My Dev Journey
+  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
