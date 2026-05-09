@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Monalisa+Menezes;Desenvolvedora+Full+Stack;Especialista+em+Java+e+Vue.js;Bem-vinda(o)+ao+meu+perfil!+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Monalisa+Menezes;Desenvolvedora+Full+Stack;Bem-vinda(o)+ao+meu+perfil!+:)" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,33 +18,6 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 - 🎯 Experiência com **ApexCharts**, **Google Maps**, **Docker** e **CI/CD**
 - 📍 Campina Grande, PB - Brasil
 - 🎓 Formação em **Psicologia** + **Desenvolvimento Full Stack**
-
-<br>
-
-## 🚀 Experiência Profissional
-
-### 💼 Sovis — Desenvolvedora Fullstack (Java/Vue.js) / Fullstack
-**2025 - Atual**
-- Desenvolvimento e manutenção de serviços backend com **Java (Spring Boot)**
-- Implementação de funcionalidades no front-end com **Vue.js**
-- Criação de componentes interativos com **Google Maps** e **ApexCharts**
-- Participação na migração de **Vue 2 para Vue 3**
-- **Tech Stack:** Java, Spring Boot, Vue.js, ApexCharts, Google Maps, Docker
-
-### 💼 Wealth99 — Desenvolvedora Fullstack
-**2022 - 2025**
-- Desenvolvimento de aplicações financeiras com **Vue.js**, **React**, **PHP (Laravel)**
-- Participação em decisões de arquitetura e pipelines de **CI/CD**
-- Otimização de performance e escalabilidade
-- Integrações complexas com APIs e automação de processos
-- **Tech Stack:** Vue.js, React, PHP, Laravel, Docker, CI/CD
-
-### 💼 Onesight — Desenvolvedora Fullstack
-**2022**
-- Criação de plataformas web com **Vue.js** e **Symfony (PHP)**
-- Implementação de interfaces dinâmicas, acessíveis e performáticas
-- Trabalho em ambientes Dockerizados com Git
-- **Tech Stack:** Vue.js, Symfony, PHP, Docker
 
 <br>
 
