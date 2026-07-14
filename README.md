@@ -78,7 +78,6 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 ## 🎓 Formação Acadêmica
 
 - 🎯 **MBA em Arquitetura de Microsserviços** — UNOPAR *(em andamento)*
-- 💾 **Graduação em Banco de Dados** — UNINASSAU *(em andamento)*
 - 💻 **Análise e Desenvolvimento de Sistemas** — Uniamérica Faculdade *(2026 - 2028)*
 - 🚀 **Desenvolvimento Web Fullstack** — Kenzie Academy Brasil *(2021 – 2022)*
 - 🧠 **Bacharelado em Psicologia** — UNINASSAU *(2013 – 2018)*
