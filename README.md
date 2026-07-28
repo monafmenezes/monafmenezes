@@ -13,9 +13,11 @@ Desenvolvedora Full Stack com **4 anos de experiência** na criação de aplica�
 Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arquitetura de Microsserviços** e graduações em **Banco de Dados** e **ADS**, focando na entrega de soluções robustas, seguras e de alta performance.
 
 - 🔭 Atualmente trabalhando como **Fullstack Developer (Java/Spring Boot e Vue.js)** na **Sovis**
-- 🌱 Focada em **arquitetura de microsserviços**, **clean code** e **escalabilidade**
-- 💡 Expertise em **Vue.js**, **React**, **Java (Spring Boot)**, **PHP (Laravel)** e **Node.js**
-- 🎯 Experiência com **ApexCharts**, **Google Maps**, **Docker** e **CI/CD**
+- 🌱 Focada em **arquitetura de microsserviços**, **mensageria assíncrona** e **clean code**
+- 💡 Principais tecnologias: **Java (Spring Boot)**, **Vue.js**, **React/Next.js**, **TypeScript** e **Node.js**
+- 📨 **Mensageria e resiliência**: RabbitMQ (topic exchange, DLQ) e Kafka — [rabbit-lab](https://github.com/monafmenezes/rabbit-lab)
+- ☁️ **Cloud e infra**: Docker, Kubernetes (K3s), GitHub Actions e Azure — [micro-ecommerce-cloud](https://github.com/monafmenezes/micro-ecommerce-cloud)
+- 🌐 **Portfólio:** [www.monalisamenezes.me](https://www.monalisamenezes.me) *(pt · en · es)*
 - 📍 Campina Grande, PB - Brasil
 - 🎓 Formação em **Psicologia** + **Desenvolvimento Full Stack**
 
@@ -27,13 +29,18 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 <div>
   <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="RabbitMQ" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+  <img alt="Apache Kafka" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
   <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="GitHub Actions" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+  <img alt="Azure" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+<sub>Também já trabalhei com PHP/Laravel e Python em projetos anteriores.</sub>
 
 ### Frontend & Frameworks
 <div>
@@ -88,7 +95,7 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 
 - 🇧🇷 **Português** — Nativo
 - 🇪🇸 **Espanhol** — Intermediário
-- 🇺🇸 **Inglês** — Básico
+- 🇺🇸 **Inglês** — Leitura técnica fluente; conversação em desenvolvimento (estudo diário)
 - 🇮🇹 **Italiano** — Básico
 
 <br>
@@ -107,7 +114,10 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 ## 📫 Entre em Contato
 
 <div align="center">
-  <a href="mailto:psimonafmenezes@gmail.com">
+  <a href="https://www.monalisamenezes.me" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:monamenezesdev@gmail.com">
     <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/monalisafmenezes" target="_blank">
