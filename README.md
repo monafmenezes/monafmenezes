@@ -44,8 +44,8 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
 </div>
 
 <br>
