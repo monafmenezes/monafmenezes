@@ -26,21 +26,15 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 ## 🛠️ Stack Tecnológico
 
 ### Backend & Infraestrutura
-<div>
-  <img alt="Java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img alt="Spring" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img alt="Node.js" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="PostgreSQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img alt="RabbitMQ" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" /> <img alt="Apache Kafka" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> <img alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img alt="Kubernetes" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img alt="GitHub Actions" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> <img alt="Azure" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> <img alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+<img alt="Backend & Infraestrutura" src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,rabbitmq,kafka,docker,kubernetes,githubactions,azure,linux" />
 
 <sub>Também já trabalhei com PHP/Laravel e Python em projetos anteriores.</sub>
 
 ### Frontend & Frameworks
-<div>
-  <img alt="Vue" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <img alt="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Next.js" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img alt="Nuxt.js" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> <img alt="TypeScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Tailwind" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Bootstrap" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
+<img alt="Frontend & Frameworks" src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,ts,js,tailwind,bootstrap" />
 
 ### Ferramentas & Metodologias
-<div>
-  <img alt="Git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="JUnit" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" /> <img alt="Vitest" width="50" height="50" src="https://vitest.dev/logo.svg" /> <img alt="Redux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div>
+<img alt="Ferramentas & Metodologias" src="https://skillicons.dev/icons?i=git,redux,vitest" />
 
 **Testes:** JUnit, Mockito, Testcontainers, Vitest  
 **Metodologias:** Scrum, Kanban, CI/CD
@@ -94,18 +88,9 @@ Atualmente, aprofundo meus conhecimentos técnicos através de um **MBA em Arqui
 ## 📫 Entre em Contato
 
 <div align="center">
-  <a href="https://www.monalisamenezes.me" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:monamenezesdev@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/monalisafmenezes" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/monafmenezes" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[🌐 Portfólio](https://www.monalisamenezes.me) · [💼 LinkedIn](https://www.linkedin.com/in/monalisafmenezes) · [✉️ monamenezesdev@gmail.com](mailto:monamenezesdev@gmail.com)
+
 </div>
 
 <br>
